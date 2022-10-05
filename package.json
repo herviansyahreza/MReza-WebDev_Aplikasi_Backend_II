@@ -1,0 +1,24 @@
+{
+  "name": "mreza-webdev_aplikasi_backend_ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herviansyahreza/MReza-WebDev_Aplikasi_Backend_II.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herviansyahreza/MReza-WebDev_Aplikasi_Backend_II/issues"
+  },
+  "homepage": "https://github.com/herviansyahreza/MReza-WebDev_Aplikasi_Backend_II#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "pg": "^8.8.0"
+  }
+}
